@@ -2,3 +2,7 @@
 Player uv bought by team mi for Rs.400.0
 
 Player uv sold from team mi for Rs.400.0
+
+Player hardik bought by team mi for Rs.2000.0
+
+Player hardik sold from team mi for Rs.2000.0
